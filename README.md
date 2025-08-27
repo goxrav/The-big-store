@@ -2,7 +2,7 @@
 
 A modern, feature-rich e-commerce web application built with React.js frontend and Node.js/Express backend with MongoDB database. This platform provides a complete shopping experience with user authentication, product management, shopping cart, order processing, and admin dashboard.
 
-![E-Commerce Platform](public/images/of5.png)
+![E-Commerce Platform]
 
 ## ✨ Features
 
@@ -65,7 +65,7 @@ A modern, feature-rich e-commerce web application built with React.js frontend a
 
 3. **Set up MongoDB**
    - Make sure MongoDB is running on your system
-   - The application connects to `mongodb://127.0.0.1:27017/projectdb`
+   
 
 4. **Start the development servers**
 
@@ -162,9 +162,7 @@ The application includes a modern UI with:
 Create a `.env` file in the root directory:
 
 ```
-MONGODB_URI=mongodb://127.0.0.1:27017/projectdb
-PORT=9000
-JWT_SECRET=your-secret-key
+
 ```
 
 ### File Uploads
